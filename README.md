@@ -89,9 +89,9 @@ Interactive Visualization
 - Support ticket volume  
 
 
-## 🚀 How to Run This Project
+**How to Run This Project**
 
-### 1️⃣ Clone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/insightflow-ai.git
