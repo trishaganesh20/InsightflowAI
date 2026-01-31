@@ -32,7 +32,7 @@ try:
             st.error(msg)
             st.stop()
 
-        st.success("SQL validated ✅")
+        st.success("SQL validated")
         st.code(safe_sql, language="sql")
 
         if st.button("Run Query"):
