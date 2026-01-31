@@ -3,19 +3,17 @@
 InsightFlow is an end-to-end analytics application that transforms natural language business questions into SQL queries, executes them safely on a MySQL database, and visualizes results through interactive dashboards.
 This project was designed to simulate a real-world business analytics environment — combining data engineering, analytics, and AI to support faster, data-driven decision making.
 
-Why I Built This:
+
+**Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
+https://github.com/user-attachments/assets/455b450a-8168-46eb-89b5-15825791a57f
+
+
+**Why I Built This:**
   As a Management Information Systems graduate, I wanted to build something that reflects how modern analytics teams actually operate.
+  The goal was to bridge the gap between business questions and technical execution.
 
-Instead of relying on dashboards, InsightFlow allows users to simply ask:
-  “What is the monthly revenue by region?”  
-  “Show order cancellation trends.”  
-
-and instantly receive SQL queries and visual insights.
-
-The goal was to bridge the gap between business questions and technical execution.
 
 **What This Project Demonstrates**
-
 This project highlights my ability to:
 
 - Design relational database schemas  
@@ -86,4 +84,9 @@ Interactive Visualization
 - Customer segment performance  
 - Order cancellation rate  
 - Subscription trends  
-- Support ticket volume  
+- Support ticket volume
+
+
+
+
+
