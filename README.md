@@ -10,6 +10,7 @@ This project was designed to simulate a real-world business analytics environmen
 
 
 **What This Project Demonstrates**
+
 This project highlights my ability to:
 
 - Design relational database schemas  
@@ -39,10 +40,11 @@ This project highlights my ability to:
 
 
 **Key Features**
-- Natural Language → SQL
+
+**Natural Language → SQL-**
 Users can ask business questions, and the app generates optimized SQL queries using an OpenAI-powered model.
 
-- SQL Safety Layer
+**SQL Safety Layer-**
 Before execution, queries pass through a validation system that blocks destructive commands such as:
 - DROP 
 - DELETE  
@@ -50,7 +52,7 @@ Before execution, queries pass through a validation system that blocks destructi
 - ALTER  
 This ensures a secure analytics environment.
 
-- Automated Data Generation
+**Automated Data Generation-**
 A custom data generator simulates a production-scale business database including:
 - 5,000 customers  
 - 60,000 orders  
@@ -59,7 +61,7 @@ A custom data generator simulates a production-scale business database including
 - support tickets  
 This allowed me to test realistic analytics scenarios.
 
-- Interactive Dashboards
+**Interactive Dashboards-**
 Query results are automatically visualized using Plotly, enabling faster interpretation of trends and performance metrics.
 
 
@@ -83,6 +85,8 @@ Interactive Visualization
 - Order cancellation rate  
 - Subscription trends  
 - Support ticket volume
+
+
 
 
 **Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
