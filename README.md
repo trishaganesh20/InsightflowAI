@@ -4,11 +4,6 @@ InsightFlow is an end-to-end analytics application that transforms natural langu
 This project was designed to simulate a real-world business analytics environment — combining data engineering, analytics, and AI to support faster, data-driven decision making.
 
 
-**Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
-
-https://github.com/user-attachments/assets/455b450a-8168-46eb-89b5-15825791a57f
-
-
 **Why I Built This:**
   As a Management Information Systems graduate, I wanted to build something that reflects how modern analytics teams actually operate.
   The goal was to bridge the gap between business questions and technical execution.
@@ -25,6 +20,7 @@ This project highlights my ability to:
 - Develop interactive data apps using Streamlit  
 - Translate business needs into technical solutions  
 
+
 **Languages and Tools**
 - Python  
 - MySQL  
@@ -34,11 +30,13 @@ This project highlights my ability to:
 - Pandas  
 - Faker (synthetic data generation)  
 
+
 **Environment**
 - MySQL Workbench  
 - VS Code  
 - GitHub  
 - macOS  
+
 
 **Key Features**
 - Natural Language → SQL
@@ -65,7 +63,6 @@ This allowed me to test realistic analytics scenarios.
 Query results are automatically visualized using Plotly, enabling faster interpretation of trends and performance metrics.
 
 
-
 **Architecture Overview**
 User Question  
 ↓  
@@ -87,6 +84,10 @@ Interactive Visualization
 - Subscription trends  
 - Support ticket volume
 
+
+**Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
+
+https://github.com/user-attachments/assets/455b450a-8168-46eb-89b5-15825791a57f
 
 
 
