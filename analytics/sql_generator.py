@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from analytics.schema_reader import get_schema_context
 
-load_dotenv()  # ✅ loads OPENAI_API_KEY from .env
+load_dotenv()  # loads OPENAI_API_KEY from .env
 if not os.environ.get("OPENAI_API_KEY"):
     raise RuntimeError("OPENAI_API_KEY is missing. Add it to .env in the project root and restart Streamlit.")
 
