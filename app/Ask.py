@@ -29,7 +29,7 @@ if "sql_raw" in st.session_state:
     if not ok:
         st.error(msg)
     else:
-        st.success("SQL validated ✅")
+        st.success("SQL validated")
         st.code(safe_sql, language="sql")
 
         if st.button("Run Query"):
