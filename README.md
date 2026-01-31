@@ -5,6 +5,7 @@ This project was designed to simulate a real-world business analytics environmen
 
 
 **Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
+
 https://github.com/user-attachments/assets/455b450a-8168-46eb-89b5-15825791a57f
 
 
