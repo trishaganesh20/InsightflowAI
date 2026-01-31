@@ -1,7 +1,7 @@
 **InsightFlow — AI-Powered Business Analytics Assistant**
 
-InsightFlow is an end-to-end analytics application that transforms natural language business questions into SQL queries, executes them safely on a MySQL database, and visualizes results through interactive dashboards.
-This project was designed to simulate a real-world business analytics environment — combining data engineering, analytics, and AI to support faster, data-driven decision making.
+InsightFlow is an application that transforms natural language business questions into SQL queries, executes them safely on a MySQL database, and visualizes results through interactive dashboards.
+This project was designed to simulate a real-world business analytics environment combining data engineering, analytics, and AI to support faster, data-driven decision making.
 
 
 **Why I Built This:**
