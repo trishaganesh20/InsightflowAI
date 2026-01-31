@@ -44,7 +44,7 @@ Users can ask business questions, and the app generates optimized SQL queries us
 
 - SQL Safety Layer
 Before execution, queries pass through a validation system that blocks destructive commands such as:
-- DROP  
+- DROP 
 - DELETE  
 - UPDATE  
 - ALTER  
@@ -87,8 +87,5 @@ Interactive Visualization
 
 **Demo video of InsightFlow turning business questions into SQL and dashboards in real time:**
 
-https://github.com/user-attachments/assets/455b450a-8168-46eb-89b5-15825791a57f
-
-
-
+https://github.com/user-attachments/assets/a20630ac-19e5-41e4-ab77-952293e1372e
 
