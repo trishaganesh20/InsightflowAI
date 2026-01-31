@@ -50,7 +50,7 @@ def main(
     conn = get_conn()
     cur = conn.cursor()
 
-    # ✅ Fast + safe reset
+    # Fast + safe reset
     cur.execute("SET FOREIGN_KEY_CHECKS=0;")
     for t in ["support_tickets", "subscriptions", "order_items", "orders", "products", "customers"]:
         cur.execute(f"TRUNCATE TABLE {t};")
@@ -170,7 +170,7 @@ def main(
     cur.close()
     conn.close()
 
-    print("✅ Data generation complete:")
+    print("Data generation complete:")
     print(f"customers={n_customers}, products={n_products}, orders={n_orders}, items={n_order_items}, subs={n_subscriptions}, tickets={n_tickets}")
 
 
